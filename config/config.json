@@ -1,0 +1,9 @@
+{
+
+ "environment":"development",
+ "port":3001,
+ "fileSize":5000000,
+ "apiVersion":"v1",
+ "secretkey":"dfgufhweruewjeioewr@##@#2"
+
+}

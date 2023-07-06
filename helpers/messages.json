@@ -1,0 +1,123 @@
+{
+  
+ 
+  
+"question_added_success":"Question Added  Successfully ",
+"question_added_fail":"Question Added  Failed ",
+"something_went_wrong":"Something Went Wrong ",
+"question_view":"Question List ",
+"question_delete_success":"Question Delete  Successfully ",
+"question_search_fail":"Question does not  Exsists ",
+"question_update_success":"Question Update  Successfully ",
+"question_update_fail":"Question Update  Failed ",
+
+"order_added_success":"Order Added  Successfully ",
+
+
+
+
+
+  
+"category_added_success":"category Added  Successfully ",
+"category_added_fail":"category Added  Failed ",
+"somethin_went_wrong":"Something Went Wrong ",
+"category_view":"category List ",
+"category_view_products":"Products found based on category",
+
+"category_delete_success":"category Delete  Successfully ",
+"category_search_fail":"category does not  Exsists ",
+"category_update_success":"category Update  Successfully ",
+"category_update_fail":"category Update  Failed ",
+
+
+
+
+
+
+
+
+"product_added_success":"product Added  Successfully ",
+"product_added_fail":"product Added  Failed ",
+"product_view":"product List ",
+"product_delete_success":"product Delete  Successfully ",
+"product_search_fail":"product does not  Exsists ",
+"product_update_success":"product Update  Successfully ",
+"product_update_fail":"product Update  Failed ",
+
+
+
+"testimonial_added_success":"testimonial Added  Successfully ",
+"testimonial_added_fail":"testimonial Added  Failed ",
+"testimonial_view":"testimonial List ",
+"testimonial_delete_success":"testimonial Delete  Successfully ",
+"testimonial_search_fail":"testimonial does not  Exsists ",
+"testimonial_update_success":"testimonial Update  Successfully ",
+"testimonial_update_fail":"testimonial Update  Failed ",
+
+"user_already_exsists": "users already exsists",
+"user_created": "User Created Successfully",
+"user_success": "Users list",
+"login_success":"Login Success",
+"user_login_fail":"Invalide Cridential",
+
+
+
+
+
+
+
+
+
+
+
+
+"contact_added_success":"contact Added  Successfully ",
+"contact_added_fail":"contact Added  Failed ",
+
+"contact_view":"contact List ",
+"contact_view_products":"Products found based on contact",
+
+"contact_delete_success":"contact Delete  Successfully ",
+"contact_search_fail":"contact does not  Exsists ",
+"contact_update_success":"contact Update  Successfully ",
+"contact_update_fail":"contact Update  Failed ",
+
+
+
+"Story_added_success":"Story Added  Successfully ",
+"Story_added_fail":"Story Added  Failed ",
+
+"Story_view":"Story List ",
+"Story_view_products":"Products found based on Story",
+
+"Story_delete_success":"Story Delete  Successfully ",
+"Story_search_fail":"Story does not  Exsists ",
+"Story_update_success":"Story Update  Successfully ",
+"Story_update_fail":"Story Update  Failed ",
+
+
+
+
+
+"Slider_added_success":"Slider Added  Successfully ",
+"Slider_added_fail":"Slider Added  Failed ",
+
+"Slider_view":"Slider List ",
+"Slider_view_products":"Products found based on Slider",
+
+"Slider_delete_success":"Slider Delete  Successfully ",
+"Slider_search_fail":"Slider does not  Exsists ",
+"Slider_update_success":"Slider Update  Successfully ",
+"Slider_update_fail":"Slider Update  Failed "
+
+
+
+
+
+
+
+
+
+
+
+}

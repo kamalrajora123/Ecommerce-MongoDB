@@ -1,0 +1,15 @@
+{
+    "development": {
+        "host": "localhost",
+        "port": 27017,
+        "user": "root",
+        
+        "database": "ecom"
+    },
+    "production": {
+        "host": "localhost",
+        "port": 27017,
+        "user": "root",
+        "database": "ecom"
+    }
+}
